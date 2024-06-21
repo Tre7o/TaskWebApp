@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|e:\\c-sharp-projects\\asp web apps\\taskwebapp\\taskwebapp\\services\\data\\taskrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|solutionrelative:taskwebapp\\services\\data\\taskrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|e:\\c-sharp-projects\\asp web apps\\taskwebapp\\taskwebapp\\services\\data\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|solutionrelative:taskwebapp\\services\\data\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|e:\\c-sharp-projects\\asp web apps\\taskwebapp\\taskwebapp\\views\\task\\viewtask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|solutionrelative:taskwebapp\\views\\task\\viewtask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|e:\\c-sharp-projects\\asp web apps\\taskwebapp\\taskwebapp\\views\\task\\taskfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|solutionrelative:taskwebapp\\views\\task\\taskfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|e:\\c-sharp-projects\\asp web apps\\taskwebapp\\taskwebapp\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|solutionrelative:taskwebapp\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|e:\\c-sharp-projects\\asp web apps\\taskwebapp\\taskwebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|solutionrelative:taskwebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|e:\\c-sharp-projects\\asp web apps\\taskwebapp\\taskwebapp\\views\\task\\addtask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|solutionrelative:taskwebapp\\views\\task\\addtask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|e:\\c-sharp-projects\\asp web apps\\taskwebapp\\taskwebapp\\views\\task\\taskview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|solutionrelative:taskwebapp\\views\\task\\taskview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|e:\\c-sharp-projects\\asp web apps\\taskwebapp\\taskwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|solutionrelative:taskwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|e:\\c-sharp-projects\\asp web apps\\taskwebapp\\taskwebapp\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|solutionrelative:taskwebapp\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|e:\\c-sharp-projects\\asp web apps\\taskwebapp\\taskwebapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|solutionrelative:taskwebapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|e:\\c-sharp-projects\\asp web apps\\taskwebapp\\taskwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C929E818-E940-47AF-B585-209EDF15AD9B}|TaskWebApp\\TaskWebApp.csproj|solutionrelative:taskwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskFail.cshtml",
+              "DocumentMoniker": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\Views\\Task\\TaskFail.cshtml",
+              "RelativeDocumentMoniker": "TaskWebApp\\Views\\Task\\TaskFail.cshtml",
+              "ToolTip": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\Views\\Task\\TaskFail.cshtml",
+              "RelativeToolTip": "TaskWebApp\\Views\\Task\\TaskFail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T09:54:13.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewTask.cshtml",
+              "DocumentMoniker": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\Views\\Task\\ViewTask.cshtml",
+              "RelativeDocumentMoniker": "TaskWebApp\\Views\\Task\\ViewTask.cshtml",
+              "ToolTip": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\Views\\Task\\ViewTask.cshtml",
+              "RelativeToolTip": "TaskWebApp\\Views\\Task\\ViewTask.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T09:42:39.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\Web.config",
+              "RelativeDocumentMoniker": "TaskWebApp\\Web.config",
+              "ToolTip": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\Web.config",
+              "RelativeToolTip": "TaskWebApp\\Web.config",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-21T09:26:51.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\Services\\Data\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskWebApp\\Services\\Data\\TaskService.cs",
+              "ToolTip": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\Services\\Data\\TaskService.cs",
+              "RelativeToolTip": "TaskWebApp\\Services\\Data\\TaskService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:20:12.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskRepo.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\Services\\Data\\TaskRepo.cs",
+              "RelativeDocumentMoniker": "TaskWebApp\\Services\\Data\\TaskRepo.cs",
+              "ToolTip": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\Services\\Data\\TaskRepo.cs*",
+              "RelativeToolTip": "TaskWebApp\\Services\\Data\\TaskRepo.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:16:13.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Task.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "TaskWebApp\\Models\\Task.cs",
+              "ToolTip": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\Models\\Task.cs",
+              "RelativeToolTip": "TaskWebApp\\Models\\Task.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAtwA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:59:46.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddTask.cshtml",
+              "DocumentMoniker": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\Views\\Task\\AddTask.cshtml",
+              "RelativeDocumentMoniker": "TaskWebApp\\Views\\Task\\AddTask.cshtml",
+              "ToolTip": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\Views\\Task\\AddTask.cshtml",
+              "RelativeToolTip": "TaskWebApp\\Views\\Task\\AddTask.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T08:12:24.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TaskWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T07:54:25.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskView.cshtml",
+              "DocumentMoniker": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\Views\\Task\\TaskView.cshtml",
+              "RelativeDocumentMoniker": "TaskWebApp\\Views\\Task\\TaskView.cshtml",
+              "ToolTip": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\Views\\Task\\TaskView.cshtml",
+              "RelativeToolTip": "TaskWebApp\\Views\\Task\\TaskView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T07:16:47.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskWebApp\\Controllers\\TaskController.cs",
+              "ToolTip": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskWebApp\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowCwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:55:34.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "TaskWebApp\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "TaskWebApp\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:35:42.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TaskWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\C-Sharp-Projects\\ASP Web apps\\TaskWebApp\\TaskWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TaskWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T05:49:21.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
